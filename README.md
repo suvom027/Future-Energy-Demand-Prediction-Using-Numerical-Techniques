@@ -59,7 +59,7 @@ There are three methods of regression considered:
         <b>Fig 1: Parabolic Regression</b>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/ddcc8f08-5ade-4407-9241-eae907cf70d4" width="400"><br>
+        <img src="https://github.com/user-attachments/assets/ddcc8f08-5ade-4407-9241-eae907cf70d4" width="500"><br>
         <b>Fig 2: Cubic Regression</b>
       </td>
     </tr>
@@ -83,11 +83,12 @@ Cubic regression provided results closest to actual projections, making it more 
   <b>Fig: Results and Analysis – Predicted vs Projected Data</b>
 </p>
 
-
+<p align="center">
 | Metric                     | Predicted (Code) | Source (Reference) |
 |----------------------------|------------------|---------------------|
 | Power Demand (2050)        | 80568.78 MW      | IEPMP: 84600 MW     |
 | GDP per Capita (2050)      | $15177.65        | Statista: $13927.27 |
+</p>
 
 Cubic regression closely followed national forecasts, validating its accuracy over simpler models.
 
