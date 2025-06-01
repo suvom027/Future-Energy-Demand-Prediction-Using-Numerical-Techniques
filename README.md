@@ -55,7 +55,7 @@ There are three methods of regression considered:
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/bdad3a51-d479-4572-ad53-234dfb74436e" width="400"><br>
+        <img src="https://github.com/user-attachments/assets/bdad3a51-d479-4572-ad53-234dfb74436e" width="500"><br>
         <b>Fig 1: Parabolic Regression</b>
       </td>
       <td align="center">
@@ -79,7 +79,7 @@ Cubic regression provided results closest to actual projections, making it more 
 ## Results and Analysis
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1c5d5d5a-2621-403a-a8d2-d602ddb4c749" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/1c5d5d5a-2621-403a-a8d2-d602ddb4c749" width="700"><br>
   <b>Fig: Results and Analysis – Predicted vs Projected Data</b>
 </p>
 
